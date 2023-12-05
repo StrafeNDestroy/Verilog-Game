@@ -1,2 +1,2 @@
 # Verilog-Game
-Creting a game in verilog supported by VGA
+Creating a game in verilog supported by VGA
